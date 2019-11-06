@@ -1,3 +1,5 @@
+PLEASE DON'T USE THIS REPO. We are only going to keep this repo around long enough to upgrade to react-scripts v2 and then we'll delete it. If you use it in your app, you will wake up one day and it will be gone.
+
 # react-app-rewire-react-toolbox
 
 Add [CSS Module](https://github.com/css-modules/css-modules) loaders to your [create-react-app](https://github.com/facebookincubator/create-react-app) via [react-app-rewired](https://github.com/timarney/react-app-rewired).
